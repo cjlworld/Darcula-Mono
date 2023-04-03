@@ -1,11 +1,5 @@
-# README
+本项目 Fork 自 https://github.com/Killidia/darcula-mono
 
-## JetBrains Mono theme
+并作出了部分修改
 
-Darcula theme like JetBrains Mono website. 
-
-## Preview
-
-![Preact preview](screenshots/preact.png)
-![Kotlin preview](screenshots/kotlin.png)
-![Rust preview](screenshots/rust.png)
+欢迎使用 Darcula Mono 主题！
